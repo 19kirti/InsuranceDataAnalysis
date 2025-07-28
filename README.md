@@ -1,18 +1,18 @@
-# 🏥 Insurance Claims & Premium Analytics Dashboard (Power BI)
+# Insurance Claims & Premium Analytics Dashboard (Power BI)
 
-## 📌 Project Overview
+## Project Overview
 
 This Power BI dashboard provides insights into key insurance metrics such as premium distribution, claim statuses, and customer demographics — to uncover insights that can support better risk assessment and policy decisions.
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 <img width="1916" height="978" alt="ReportSS" src="https://github.com/user-attachments/assets/c54f1ccd-55a6-4af8-bc64-cfdddf104077" />
 
 ---
 
-## 📊 Key Metrics Tracked
+## Key Metrics Tracked
 
 - **Total Premium Amount**: ₹5.98 Million  
 - **Total Claim Amount**: ₹16.91 Million  
@@ -22,7 +22,7 @@ This Power BI dashboard provides insights into key insurance metrics such as pre
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - Mock insurance dataset with fields like:
   - Policy Type, Claim Status, Claim Amount
@@ -32,7 +32,7 @@ This Power BI dashboard provides insights into key insurance metrics such as pre
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 | Visualization | Description |
 |---------------|-------------|
@@ -45,7 +45,7 @@ This Power BI dashboard provides insights into key insurance metrics such as pre
 
 ---
 
-## 🧠 Business Insights
+## Business Insights
 
 - **Auto & Health policies** generate the highest premium collections.
 - **Rejected claims** are higher than settled ones — a red flag for operations.
@@ -54,7 +54,7 @@ This Power BI dashboard provides insights into key insurance metrics such as pre
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - **Power BI Desktop** – Data modeling, DAX, visual building
 - **DAX Measures** – Calculated KPIs like Premium, CLV, CAC
