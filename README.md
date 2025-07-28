@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This Power BI dashboard provides insights into key insurance metrics such as **Premium Amount**, **Coverage**, **Claim Status**, and **Customer Segmentation**. Built to simulate a real-world use case for an insurance company, it supports data-driven decisions in underwriting, claim settlement, and customer engagement.
+This Power BI dashboard provides insights into key insurance metrics such as premium distribution, claim statuses, and customer demographics — to uncover insights that can support better risk assessment and policy decisions.
 
 ---
 
@@ -61,3 +61,7 @@ This Power BI dashboard provides insights into key insurance metrics such as **P
 - **Power Query** – Data transformation & cleaning
   
 ---
+
+## Conclusion
+
+This dashboard demonstrates the power of data storytelling in insurance. It enables better decisions in claims processing, policy pricing, and customer engagement — all through a single interactive interface.
