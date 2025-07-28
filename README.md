@@ -6,6 +6,12 @@ This Power BI dashboard provides insights into key insurance metrics such as **P
 
 ---
 
+## 🖼️ Dashboard Preview
+
+<img width="1916" height="978" alt="ReportSS" src="https://github.com/user-attachments/assets/c54f1ccd-55a6-4af8-bc64-cfdddf104077" />
+
+---
+
 ## 📊 Key Metrics Tracked
 
 - **Total Premium Amount**: ₹5.98 Million  
@@ -53,12 +59,5 @@ This Power BI dashboard provides insights into key insurance metrics such as **P
 - **Power BI Desktop** – Data modeling, DAX, visual building
 - **DAX Measures** – Calculated KPIs like Premium, CLV, CAC
 - **Power Query** – Data transformation & cleaning
-
----
-
-## 🖼️ Dashboard Preview
-
-<img width="1916" height="978" alt="ReportSS" src="https://github.com/user-attachments/assets/c54f1ccd-55a6-4af8-bc64-cfdddf104077" />
-
-
+  
 ---
