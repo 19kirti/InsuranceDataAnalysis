@@ -1,4 +1,4 @@
-# Insurance Claims & Premium Analytics Dashboard (Power BI)
+# Insurance Analytics Dashboard (Power BI)
 
 ## Project Overview
 
