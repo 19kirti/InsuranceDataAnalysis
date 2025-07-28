@@ -8,7 +8,8 @@ This Power BI dashboard provides insights into key insurance metrics such as pre
 
 ## Dashboard Preview
 
-<img width="1916" height="978" alt="ReportSS" src="https://github.com/user-attachments/assets/c54f1ccd-55a6-4af8-bc64-cfdddf104077" />
+
+<img width="1338" height="722" alt="Screenshot 2025-07-28 190336" src="https://github.com/user-attachments/assets/019c5eb5-ff3c-4eef-a1a8-0cc8c189d0ca" />
 
 ---
 
